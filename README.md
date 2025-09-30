@@ -24,7 +24,7 @@
 #### 🔗 Web3  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"/> 
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"/> 
+<img src="https://www.rust-lang.org/logos/rustacean-flat-happy.svg" height="40" alt="rust crab logo"/> 
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"/>
 
