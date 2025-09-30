@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hey, I'm Supreme Dev</h2>
 
-<h3 align="center">💻 Security Researcher | 🌐 Web3 Developer | 🛡️ Hacker Mindset</h3>
+<h3 align="center">💻 Security Researcher | 🌐 Web3 Developer </h3>
 
 ---
 
@@ -24,7 +24,7 @@
 #### 🔗 Web3  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"/> 
 <img width="12"/>
-<img src="https://www.rust-lang.org/logos/rustacean-flat-happy.svg" height="40" alt="rust crab logo"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"/> 
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"/>
 
