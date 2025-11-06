@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hey, I'm Supreme Dev</h2>
 
-<h3 align="center">💻 Security Researcher | 🌐 Web3 Developer | 🛠️ Building DeFi Solutions</h3>
+<h3 align="center">💻 Security Researcher | 🌐 Fullstack Blockchain Developer | 🛠️ Building DeFi Solutions</h3>
 
 ---
 
