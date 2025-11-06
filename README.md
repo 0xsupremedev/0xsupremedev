@@ -1,11 +1,37 @@
 <h2 align="center">👋 Hey, I'm Supreme Dev</h2>
 
-<h3 align="center">💻 Security Researcher | 🌐 Web3 Developer </h3>
+<h3 align="center">💻 Security Researcher | 🌐 Web3 Developer | 🛠️ Building DeFi Solutions</h3>
 
 ---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=0xsupremedev.0xsupremedev" />
+</div>
+
+---
+
+### 💎 Developer Support & Contributions
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Supporting-Open%20Source%20%26%20DeFi-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  
+  <br><br>
+  
+  <a href="https://etherscan.io/address/0x55f099567ad78461642ac58f76cac00770f570a2" target="_blank">
+    <img src="https://img.shields.io/badge/Ethereum-0x55f0...70a2-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&logoWidth=20" alt="Ethereum Address" />
+  </a>
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/💎_Support_DeFi-FFD700?style=flat-square&logo=ethereum&logoColor=000" />
+  <img src="https://img.shields.io/badge/🔒_Security_Auditor-FF6B6B?style=flat-square&logo=shield-check&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀_DeFi_Builder-00D4AA?style=flat-square&logo=rocket&logoColor=white" />
+  
+  <br><br>
+  
+  <sub>💡 Supporting builders, auditors, and DeFi innovators</sub>
+  
 </div>
 
 ---
@@ -45,6 +71,18 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<div align="center">
+
+[![RescueStream](https://img.shields.io/badge/🛡️_RescueStream-Real--time%20DeFi%20Monitoring-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/0xsupremedev/rescuestream)
+
+**Building the future of DeFi risk management with real-time monitoring and automated rescue**
+
+</div>
+
+---
+
 ### 🌍 Connect With Me
 
 <div align="center">
@@ -54,6 +92,15 @@
   <a href="https://discord.com/0xsupremeDev" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xsupremedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xsupremedev&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
