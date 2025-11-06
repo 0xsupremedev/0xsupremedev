@@ -95,6 +95,33 @@
 
 ---
 
+### 💼 Hire Me
+
+<div align="center">
+  
+  <h3>🚀 Available for Web3 & DeFi Projects</h3>
+  
+  <p>Looking for a <strong>Security Researcher</strong> or <strong>Web3 Developer</strong>? I specialize in:</p>
+  
+  <img src="https://img.shields.io/badge/🔒_Smart_Contract_Auditing-FF6B6B?style=flat-square&logo=shield-check&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚡_DeFi_Development-00D4AA?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐_Full_Stack_Web3-9945FF?style=flat-square&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/🛡️_Security_Research-FFD700?style=flat-square&logo=shield&logoColor=000" />
+  
+  <br><br>
+  
+  <a href="mailto:0xsupremedev@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Hire_Me-0xsupremedev@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+  
+  <br><br>
+  
+  <sub>💡 Let's build something amazing together!</sub>
+  
+</div>
+
+---
+
 ### 🌍 Connect With Me
 
 <div align="center">
