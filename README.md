@@ -22,6 +22,12 @@
     <img src="https://img.shields.io/badge/Ethereum-0x55f0...70a2-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&logoWidth=20" alt="Ethereum Address" />
   </a>
   
+  <br>
+  
+  <a href="https://solscan.io/account/4EAz6koTAHG4arVfPJkaBX7Yq8cwQGPF8KbUwN2bSWyh" target="_blank">
+    <img src="https://img.shields.io/badge/Solana-4EAz6...bSWyh-9945FF?style=for-the-badge&logo=solana&logoColor=white&logoWidth=20" alt="Solana Address" />
+  </a>
+  
   <br><br>
   
   <img src="https://img.shields.io/badge/💎_Support_DeFi-FFD700?style=flat-square&logo=ethereum&logoColor=000" />
@@ -78,6 +84,12 @@
 [![RescueStream](https://img.shields.io/badge/🛡️_RescueStream-Real--time%20DeFi%20Monitoring-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/0xsupremedev/rescuestream)
 
 **Building the future of DeFi risk management with real-time monitoring and automated rescue**
+
+<br><br>
+
+[![BlinkPay](https://img.shields.io/badge/💳_BlinkPay-Solana%20Walletless%20Payments-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://github.com/0xsupremedev/blinkpay)
+
+**Revolutionary Solana-powered payments platform with walletless Blink integration**
 
 </div>
 
