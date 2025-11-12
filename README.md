@@ -10,35 +10,6 @@
 
 ---
 
-### 💎 Developer Support & Contributions
-
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Supporting-Open%20Source%20%26%20DeFi-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-  
-  <br><br>
-  
-  <a href="https://etherscan.io/address/0x55f099567ad78461642ac58f76cac00770f570a2" target="_blank">
-    <img src="https://img.shields.io/badge/Ethereum-0x55f0...70a2-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&logoWidth=20" alt="Ethereum Address" />
-  </a>
-  
-  <br>
-  
-  <a href="https://solscan.io/account/4EAz6koTAHG4arVfPJkaBX7Yq8cwQGPF8KbUwN2bSWyh" target="_blank">
-    <img src="https://img.shields.io/badge/Solana-4EAz6...bSWyh-9945FF?style=for-the-badge&logo=solana&logoColor=white&logoWidth=20" alt="Solana Address" />
-  </a>
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/💎_Support_DeFi-FFD700?style=flat-square&logo=ethereum&logoColor=000" />
-  <img src="https://img.shields.io/badge/🔒_Security_Auditor-FF6B6B?style=flat-square&logo=shield-check&logoColor=white" />
-  <img src="https://img.shields.io/badge/🚀_DeFi_Builder-00D4AA?style=flat-square&logo=rocket&logoColor=white" />
-  
-  <br><br>
-  
-  <sub>💡 Supporting builders, auditors, and DeFi innovators</sub>
-  
-</div>
 
 ---
 
@@ -76,6 +47,36 @@
 </div>
 
 ---
+### 💎 Developer Support & Contributions
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Supporting-Open%20Source%20%26%20DeFi-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  
+  <br><br>
+  
+  <a href="https://etherscan.io/address/0x55f099567ad78461642ac58f76cac00770f570a2" target="_blank">
+    <img src="https://img.shields.io/badge/Ethereum-0x55f0...70a2-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&logoWidth=20" alt="Ethereum Address" />
+  </a>
+  
+  <br>
+  
+  <a href="https://solscan.io/account/4EAz6koTAHG4arVfPJkaBX7Yq8cwQGPF8KbUwN2bSWyh" target="_blank">
+    <img src="https://img.shields.io/badge/Solana-4EAz6...bSWyh-9945FF?style=for-the-badge&logo=solana&logoColor=white&logoWidth=20" alt="Solana Address" />
+  </a>
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/💎_Support_DeFi-FFD700?style=flat-square&logo=ethereum&logoColor=000" />
+  <img src="https://img.shields.io/badge/🔒_Security_Auditor-FF6B6B?style=flat-square&logo=shield-check&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀_DeFi_Builder-00D4AA?style=flat-square&logo=rocket&logoColor=white" />
+  
+  <br><br>
+  
+  <sub>💡 Supporting builders, auditors, and DeFi innovators</sub>
+  
+</div>
+
 
 ### 🚀 Featured Projects
 
