@@ -137,7 +137,7 @@
 ---
 
 ### 🏆 Badges
-<img src="https://github.com/user-attachments/assets/a1be4938-83f7-4ca9-a19f-c99e4ed46588" width="250" />
+<img src="https://github.com/user-attachments/assets/a1be4938-83f7-4ca9-a19f-c99e4ed46588" width="200" />
 
 
 
